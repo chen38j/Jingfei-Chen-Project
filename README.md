@@ -29,9 +29,9 @@ Here is Jingfei Chen's Portfolio. I include my past analytics projects and codin
 + [ACA4](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ACA4.ipynb)
 
 ### Mini Learning Analytics Project
-+ [MiniLA1](https://github.com/chen38j/HUDK4051_Portfolio_Jingfei-Chen/blob/main/MiniLA1.ipynb)
-+ [MiniLA2](https://github.com/chen38j/HUDK4051_Portfolio_Jingfei-Chen/blob/main/MiniLA2.ipynb)
-+ [MiniLA3](https://github.com/chen38j/HUDK4051_Portfolio_Jingfei-Chen/blob/main/MiniLA3.ipynb)
++ [MiniLA1](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/MiniLA1.ipynb)
++ [MiniLA2](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/MiniLA2.ipynb)
++ [MiniLA3](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/MiniLA3.ipynb)
 
 ### Creative EDM Assignment 
 + [Creative EDM Assignment](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/Creative%20EDM%20Assignment.pdf)
