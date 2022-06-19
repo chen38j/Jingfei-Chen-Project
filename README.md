@@ -1,5 +1,4 @@
 # Jingfei-Chen-Project
-# Profolio_Jingfei Chen
 #### Here is Jingfei Chen's Portfolio.
 
 ## This Portfolio includes 4 sections:
