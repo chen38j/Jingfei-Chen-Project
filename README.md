@@ -2,8 +2,6 @@
 #### Here is Jingfei Chen's Portfolio.
 
 ## This Portfolio includes 4 sections:
-### Reflective Essay
-+ [Reflective Essay](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/Reflective%20Essay.pdf)
 
 ### Individual Coding Exercise
 + [ICE1](https://github.com/chen38j/4050_Profolio_Jingfei-Chen/blob/main/ICE1.ipynb)
@@ -16,6 +14,12 @@
 + [ICE8](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ICE8.ipynb)
 
 ### Analysis Challenge Assignment
++ [ACA1](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ACA1.ipynb)
++ [ACA2](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ACA2.ipynb)
++ [ACA3](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ACA3.ipynb)
++ [ACA4](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ACA4.ipynb)
+
+### 
 + [ACA1](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ACA1.ipynb)
 + [ACA2](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ACA2.ipynb)
 + [ACA3](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ACA3.ipynb)
