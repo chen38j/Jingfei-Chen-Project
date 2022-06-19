@@ -23,10 +23,10 @@ Here is Jingfei Chen's Portfolio. I include my past analytics projects and codin
 + [ICE5](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ICE5.2.ipynb)
 
 ### Analysis Challenge Assignment
-+ [ACA1](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ACA1.ipynb)
-+ [ACA2](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ACA2.ipynb)
-+ [ACA3](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ACA3.ipynb)
-+ [ACA4](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ACA4.ipynb)
++ [ACA1](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ACA1.ipynb)
++ [ACA2](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ACA2.ipynb)
++ [ACA3](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ACA3.ipynb)
++ [ACA4](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ACA4.ipynb)
 
 ### Mini Learning Analytics Project
 + [MiniLA1](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/MiniLA1.ipynb)
