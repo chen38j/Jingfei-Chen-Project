@@ -34,4 +34,4 @@ Here is Jingfei Chen's Portfolio. I include my past analytics projects and codin
 + [MiniLA3](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/MiniLA3.ipynb)
 
 ### Creative EDM Assignment 
-+ [Creative EDM Assignment](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/Creative%20EDM%20Assignment.pdf)
++ [Creative EDM Assignment](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/Creative%20EDM.docx)
