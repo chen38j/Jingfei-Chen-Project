@@ -1,5 +1,6 @@
 # Jingfei-Chen-Project
-#### Here is Jingfei Chen's Portfolio.
+### About
+Here is Jingfei Chen's Portfolio. I included my past analytics projects and coding exercises that can be used to prove my data analytics experience and problem-solving ability.
 
 ## This Portfolio includes 4 sections:
 
