@@ -6,21 +6,21 @@ Here is Jingfei Chen's Portfolio. I include my past analytics projects and codin
 
 ### Individual Coding Exercise
 #### Set 1
-+ [ICE1](https://github.com/chen38j/4050_Profolio_Jingfei-Chen/blob/main/ICE1.ipynb)
-+ [ICE2](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ICE2.ipynb)
-+ [ICE3](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ICE3.ipynb)
-+ [ICE4](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ICE4.ipynb)
-+ [ICE5](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ICE5.ipynb)
-+ [ICE6](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ICE6.ipynb)
-+ [ICE7](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ICE7.ipynb)
-+ [ICE8](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ICE8.ipynb)
++ [ICE1](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ICE1.1.ipynb)
++ [ICE2](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ICE2.1.ipynb)
++ [ICE3](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ICE3.1.ipynb)
++ [ICE4](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ICE4.1.ipynb)
++ [ICE5](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ICE5.1.ipynb)
++ [ICE6](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ICE6.1.ipynb)
++ [ICE7](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ICE7.1.ipynb)
++ [ICE8](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ICE8.1.ipynb)
 
 #### Set 2
-+ [ICE1](https://github.com/chen38j/HUDK4051_Portfolio_Jingfei-Chen/blob/main/ICE1.ipynb)
-+ [ICE2](https://github.com/chen38j/HUDK4051_Portfolio_Jingfei-Chen/blob/main/ICE2.ipynb)
-+ [ICE3](https://github.com/chen38j/HUDK4051_Portfolio_Jingfei-Chen/blob/main/ICE3.ipynb)
-+ [ICE4](https://github.com/chen38j/HUDK4051_Portfolio_Jingfei-Chen/blob/main/ICE4.ipynb)
-+ [ICE5](https://github.com/chen38j/HUDK4051_Portfolio_Jingfei-Chen/blob/main/ICE5.ipynb)
++ [ICE1](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ICE1.2.ipynb)
++ [ICE2](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ICE2.2.ipynb)
++ [ICE3](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ICE3.2.ipynb)
++ [ICE4](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ICE4.2.ipynb)
++ [ICE5](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/ICE5.2.ipynb)
 
 ### Analysis Challenge Assignment
 + [ACA1](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ACA1.ipynb)
@@ -34,4 +34,4 @@ Here is Jingfei Chen's Portfolio. I include my past analytics projects and codin
 + [MiniLA3](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/MiniLA3.ipynb)
 
 ### Creative EDM Assignment 
-+ [Creative EDM Assignment](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/Creative%20EDM.docx)
++ [Creative EDM Assignment](https://github.com/chen38j/Jingfei-Chen-Project/blob/main/Creative%20EDM.pdf)
